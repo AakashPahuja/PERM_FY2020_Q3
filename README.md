@@ -4,5 +4,6 @@ Provided interesting insights and analysis to the PERM program data which is gen
 The notebook contains exploaraty data analysis of the data. Some data cleaning done. Shows some interesting insights which were able to gleaned from the data set, supplemented with visual charts.
 
 Requirements:
--Download file from https://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis the latest version PERM "FY2020 Q3.xlsx"
--Data dictionary available under "PERM Record Layout.pdf" link
+
+- Download file from https://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis the latest version PERM "FY2020 Q3.xlsx"
+- Data dictionary available under "PERM Record Layout.pdf" link
